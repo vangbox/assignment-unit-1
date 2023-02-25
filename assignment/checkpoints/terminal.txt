@@ -19,3 +19,15 @@
 # 9 - What does the command 'git add .' do?
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+
+1. ls 
+2. cd
+3. cd ..
+4. mkdir "name of folder"
+5. When you 'ls' a folder that is empty, nothing will show on the terminal list since there is nothing in there. When you 'ls' into a folder with folders, a list of folders will show up. 
+6. touch "name of file"
+7. git version 2.15
+8. See what changes have been made or modified.
+9. Adds the files and changes you made to the staging area. 
+10. git commit -m “description of changes“ 
+ 
